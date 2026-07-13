@@ -7,8 +7,8 @@
   --color-rose: #BB737E;
   --color-sage: #A16879;
   
-  --font-serif: var(--font-andrea-serif), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  --font-sans: var(--font-andrea-sans), "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-andrea-neat), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: var(--font-andrea-neat), "Nunito", ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {
